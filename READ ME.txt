@@ -1,0 +1,10 @@
+READ ME
+
+this repository contains Object oritented programming & design partten related code. All codes are written in JAVA or Python.
+
+
+1. ParkingSystem:
+Implement a parking system. it contains 3 different kind sizes of lots which can park different size car(small, medium, big).
+The parking system contains fee management system which contains receipt and can generate receipt report.
+When a car arrives, the system tries to find a lot for parking. If it finds, it will allow the car to park, and beigin to count time.
+When a car leaves, the system will stop counting and generate fee and receipt. And then it will put the lot into available list.
