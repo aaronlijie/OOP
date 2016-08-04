@@ -8,3 +8,11 @@ Implement a parking system. it contains 3 different kind sizes of lots which can
 The parking system contains fee management system which contains receipt and can generate receipt report.
 When a car arrives, the system tries to find a lot for parking. If it finds, it will allow the car to park, and beigin to count time.
 When a car leaves, the system will stop counting and generate fee and receipt. And then it will put the lot into available list.
+
+
+
+2. Musicbox:
+// 1. can switch between among different MusicPlayer.
+// 2. can play the playlist in different order sequence or random
+// 3. can switch among different playlist or CD
+// 4. can play a single music
