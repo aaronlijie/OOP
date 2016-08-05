@@ -22,3 +22,10 @@ When a car leaves, the system will stop counting and generate fee and receipt. A
 //2. each user each time can read one book
 //3. each book can be read by 3 readers Simultaneously
 //4. user class will keep the info of book reading progress.
+
+
+4. Online chat
+//online chat system
+//1. can add friend
+//2. login, logoff
+//3. chat(private & group)
