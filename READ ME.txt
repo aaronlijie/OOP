@@ -16,3 +16,9 @@ When a car leaves, the system will stop counting and generate fee and receipt. A
 // 2. can play the playlist in different order sequence or random
 // 3. can switch among different playlist or CD
 // 4. can play a single music
+
+3. implement a onlinebook reading system
+//1. allow users to read online simultaneously
+//2. each user each time can read one book
+//3. each book can be read by 3 readers Simultaneously
+//4. user class will keep the info of book reading progress.
