@@ -29,3 +29,7 @@ When a car leaves, the system will stop counting and generate fee and receipt. A
 //1. can add friend
 //2. login, logoff
 //3. chat(private & group)
+
+
+
+5. implement my own hash map
